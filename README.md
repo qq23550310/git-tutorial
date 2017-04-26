@@ -6,3 +6,4 @@
 -feature C-C
  fix-C
 -feature A-A
+-feature-C
