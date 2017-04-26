@@ -1,3 +1,3 @@
 #Git教程
 
--feature -C
+-feature C-C
